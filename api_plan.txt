@@ -1,0 +1,18 @@
+GET: All posts
+GET: /posts
+
+GET: Post by Id
+GET: /posts/:id
+
+POST: Create a new post
+POST: /posts
+- Title
+- Description
+
+PUT: Update a post
+PUT: /posts/:id
+- Title
+- Description
+
+DELETE: Delete a post
+DELETE: /posts/:id
